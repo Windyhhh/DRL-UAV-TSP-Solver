@@ -1,0 +1,19 @@
+TSP Drone Training Progress Analysis Report
+==================================================
+
+Report Generation Time: 2026-01-02 10:55:42
+
+Sampling Reward Analysis:
+  Data Points: 100
+  Mean Reward: 231.85
+  Std Dev: 23.00
+  Min: 163.73
+  Max: 289.19
+
+Performance Evaluation:
+
+Recommendations:
+1. If reward fluctuation is large, consider adjusting learning rate
+2. If rewards continue to decrease, overfitting may be occurring
+3. Recommend using early stopping to prevent overfitting
+4. Can try different network architectures
