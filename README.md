@@ -57,6 +57,15 @@ DRL-UAV-TSP-Solver/
 
 ---
 
+
+## Results
+
+<div align="center">
+  <img src="1/demo_results/n20/tsp_solution_20_nodes_idx_0.png" alt="TSP tour — 20 nodes" width="70%"/>
+  <img src="1/demo_results/n11/tsp_solution_11_nodes_idx_0.png" alt="TSP tour — 11 nodes" width="70%"/>
+</div>
+
+---
 ## License
 
 MIT — free to use, modify and distribute.
