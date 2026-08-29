@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚁 DRL-UAV-TSP-Solver
+# 无人机 TSP 路径规划 | DRL-UAV-TSP-Solver
 
 ### Deep RL for the UAV travelling-salesman problem.
 
